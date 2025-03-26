@@ -6,7 +6,7 @@ Welcome! This repository contains an interactive Power BI dashboard built using 
 
 ## 📁 Project Overview
 
-This is the final project from the [Power BI Tutorial Series by Alex The Analyst](https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys&index=9). The dataset was collected via an online survey shared on LinkedIn and Twitter and contains responses from over **630 data professionals** around the world.
+The dataset was collected via an online survey shared on LinkedIn and Twitter and contains responses from over **630 data professionals** around the world.
 
 This dashboard provides insights into:
 - Job titles and average salaries
