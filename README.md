@@ -78,5 +78,18 @@ The final dashboard includes the following visuals:
 | **Donut Chart** | Average salary by gender |
 | **Stacked Bar** | Difficulty level in breaking into data roles |
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/KAnushaRaju/PowerBI-Data-Professionals-Survey-Analysis/blob/main/DashboardPowerBI)
+
+
+---
+## 📊 Conclusions
+
+This Power BI dashboard project demonstrates how survey data can be effectively cleaned, transformed, and visualized to extract meaningful insights. Through the use of real-world data from over 600+ data professionals, this project provides a clear view of trends in job roles, salaries, programming language preferences, work satisfaction, and demographics across the tech industry.
+
+Key takeaways include:
+- Data Scientists reported the highest average salaries among all roles.
+- Python stands out as the most favored programming language among respondents.
+- There is a noticeable variation in salaries by country, reflecting differences in cost of living and market rates.
+- Most respondents feel neutral to slightly positive about work-life balance, while many expressed lower satisfaction with salary.
+- Entering the data profession was generally perceived as moderately difficult, with only a small percentage considering it "very easy."
 
